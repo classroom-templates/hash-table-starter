@@ -2,7 +2,7 @@
  * @file main.h
  * @author Alex Katrompas
  * @assignment Hash Tables
- * @brief Declares dependencies for the HashTable instructor test driver.
+ * @brief Declares dependencies for the HashTable test driver.
  */
 
 #ifndef MAIN_H
