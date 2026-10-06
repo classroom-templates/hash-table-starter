@@ -414,6 +414,8 @@ The supplied test module already tests:
 
 ## Student-Written Tests
 
+Note there are **no autograding tests** since testing is part of the assignment.
+
 You must complete these two test functions in `test.cpp`:
 
 ```cpp
