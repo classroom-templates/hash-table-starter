@@ -398,6 +398,8 @@ These topics are still important and are addressed in the lectures and `ANALYSIS
 
 # Testing
 
+Note there are **no autograding tests** since testing is part of the assignment.
+
 The starter repository includes a supplied testing architecture and a substantial set of completed tests.
 
 You are not being asked to redesign the testing system.
@@ -413,8 +415,6 @@ The supplied test module already tests:
 - deterministic scaled stress behavior.
 
 ## Student-Written Tests
-
-Note there are **no autograding tests** since testing is part of the assignment.
 
 You must complete these two test functions in `test.cpp`:
 
