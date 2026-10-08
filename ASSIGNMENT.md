@@ -16,6 +16,12 @@ You must not access or expose `LinkedList::Node`, `head`, `next`, `prev`, or any
 
 ---
 
+## Backgound
+ - Notes in the Notes folder, Part I and II
+ - Lectures in the lectures folder, Hash Tables, Part I and part II
+
+---
+
 ## Files You Will Use
 
 The starter repository provides:
